@@ -1,6 +1,6 @@
 pandas
 numpy
-re 
+re==3.10.2
 seaborn
 datetime
 matplotlib
